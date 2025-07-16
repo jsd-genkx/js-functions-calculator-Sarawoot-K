@@ -29,7 +29,7 @@
 ### Instructions:
 
 1. **Create a function to validate inputs.**
-   
+
    - The function should take two parameters (`num1` and `num2`).
    - It should check if both `num1` and `num2` are numbers.
    - If either `num1` or `num2` is not a number, return an error message saying **"Both inputs must be numbers"**.
